@@ -2,7 +2,9 @@
 
 This repository provides simple embellishments for code comments. To use them, the setup.m4 file must be configured with the relevant project information. After updating this file and creating a source file that includes the required m4-macros, a ready-to-use file can be generated as follows:
 
-m4 setup.m4 embellishments.m4 <code_file> > <output_file>
+```bash
+m4 setup.m4 embellishments.m4 code_file > output_file
+```
 
 ## Macros
 
