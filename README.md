@@ -6,7 +6,7 @@ m4 setup.m4 embellishments.m4 <code_file> > <output_file>
 
 ## Macros
 
-The following m4 macros are defined in embellishments.m4. All macro names are written in uppercase. In the examples below, COMMENT\_SIGN\_START is //, and COMMENT\_SIGN\_END is empty.
+The following m4 macros are defined in embellishments.m4. *All macro names are written in uppercase*. In the examples below, COMMENT\_SIGN\_START is //, and COMMENT\_SIGN\_END is empty.
 
 ### Separator\_X
 
