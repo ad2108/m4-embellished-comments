@@ -11,6 +11,7 @@ dnl
 define(`SEPARATOR_A',`COMMENT_SIGN_START ---------------------------------------------------------------------- COMMENT_SIGN_END')dnl
 define(`SEPARATOR_B',`COMMENT_SIGN_START >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> COMMENT_SIGN_END')dnl
 define(`SEPARATOR_C',`COMMENT_SIGN_START ><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><>< COMMENT_SIGN_END')dnl
+define(`SEPARATOR_D',`COMMENT_SIGN_START ********************************************************************** COMMENT_SIGN_END')dnl
 dnl
 dnl # ------------------------------------------------------------------
 dnl # Big Section with 2 different Separatortypes
