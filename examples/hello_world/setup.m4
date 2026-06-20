@@ -14,7 +14,8 @@ define(`DATE',`21.06.2026')dnl
 define(`VERSION',`1.0.0')dnl
 define(`LICENSE',`MIT')dnl
 dnl
-define(`COMMENT_SIGN',`//')dnl
+define(`COMMENT_SIGN_START',`//')dnl
+define(`COMMENT_SIGN_END',` ')dnl
 dnl
 dnl # ------------------------------------------------------------------
 dnl # >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
