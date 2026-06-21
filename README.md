@@ -58,7 +58,7 @@ SECTION(Example Section)
 ### SUBSECTION(subsectionname)
 
 ```cpp
-SUBSECTION(Example Section)
+SUBSECTION(Example Subsection)
 
 // ----------------------------------------------------------------------
 // Example Subsection
@@ -68,7 +68,7 @@ SUBSECTION(Example Section)
 ### MAINSECTION(mainsectionname)
 
 ```cpp
-MAINSECTION(Example Section)
+MAINSECTION(Example Mainsection)
 
 // ----------------------------------------------------------------------
 // >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
