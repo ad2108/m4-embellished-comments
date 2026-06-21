@@ -43,7 +43,7 @@ C. // ><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><
 D. // **********************************************************************
 ```
 
-### SECTION(<name>)
+### SECTION(sectionname)
 
 ```cpp
 SECTION(Example Section)
@@ -55,7 +55,7 @@ SECTION(Example Section)
 // ----------------------------------------------------------------------
 ```
 
-### SUBSECTION(<name>)
+### SUBSECTION(subsectionname)
 
 ```cpp
 SUBSECTION(Example Section)
@@ -65,7 +65,7 @@ SUBSECTION(Example Section)
 // ----------------------------------------------------------------------
 ```
 
-### MAINSECTION(<name>)
+### MAINSECTION(mainsectionname)
 
 ```cpp
 MAINSECTION(Example Section)
