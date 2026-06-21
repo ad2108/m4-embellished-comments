@@ -56,7 +56,7 @@ COMMENT($1)
 SEPARATOR(SEPARATOR_1,SEPARATOR_SIZE_1)')dnl
 dnl
 dnl # ------------------------------------------------------------------
-dnl # Simple Header with Project Information and 2 Separatortypes
+dnl # Simple Header with Project Information and 2 Separatortypes from setup.m4
 dnl # ------------------------------------------------------------------
 dnl
 define(`HEADER',`SECTION(PROJECT_NAME)
