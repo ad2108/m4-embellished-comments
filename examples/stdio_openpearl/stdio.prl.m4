@@ -1,4 +1,4 @@
-HEADER
+HEADER(stdio.prl)
 MODULE(stdio);
 
 SUBSECTION(System)

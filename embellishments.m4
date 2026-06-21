@@ -59,8 +59,9 @@ dnl # ------------------------------------------------------------------
 dnl # Simple Header with Project Information and 2 Separatortypes from setup.m4
 dnl # ------------------------------------------------------------------
 dnl
-define(`HEADER',`SECTION(PROJECT_NAME)
-COMMENT(Author:   AUTHORNAME)
+define(`HEADER',`SECTION($1)
+COMMENT(Project:  PROJECT_NAME)
+COMMENT(Author:   AUTHOR_NAME)
 COMMENT(Date:     DATE)
 COMMENT(Version:  VERSION)
 COMMENT(License:  LICENSE)
