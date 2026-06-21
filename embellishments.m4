@@ -3,7 +3,7 @@ dnl # >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 dnl # embellishments.m4
 dnl # >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 dnl # ------------------------------------------------------------------
-dnl # Project:  m4-embellished-comments
+dnl # Project:  https://github.com/ad2108/m4-embellished-comments
 dnl # Author:   ad2108
 dnl # Date:     21.06.2026
 dnl # Version:  1.0.2
