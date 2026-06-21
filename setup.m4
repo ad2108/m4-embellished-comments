@@ -1,18 +1,24 @@
 dnl # ------------------------------------------------------------------
 dnl # >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
-dnl # Project Information
+dnl # setup.m4
 dnl # >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+dnl # ------------------------------------------------------------------
+dnl # Project:  m4-embellished-comments
+dnl # Author:   ad2108
+dnl # Date:     21.06.2026
+dnl # Version:  1.0.2
+dnl # License:  MIT
 dnl # ------------------------------------------------------------------
 dnl
 dnl # ------------------------------------------------------------------
 dnl # The following definitions need to be filled out 
 dnl # ------------------------------------------------------------------
 dnl
-define(`PROJECT_NAME',`Hello world')dnl
-define(`AUTHORNAME',`ad2108')dnl
-define(`DATE',`21.06.2026')dnl
-define(`VERSION',`1.0.0')dnl
-define(`LICENSE',`MIT')dnl
+define(`PROJECT_NAME',`<project-name>')dnl
+define(`AUTHORNAME',`<author-name>')dnl
+define(`DATE',`<date>')dnl
+define(`VERSION',`<version>')dnl
+define(`LICENSE',`<license>')dnl
 dnl
 define(`SEPARATOR_1',`-')dnl
 define(`SEPARATOR_SIZE_1',`70')dnl
