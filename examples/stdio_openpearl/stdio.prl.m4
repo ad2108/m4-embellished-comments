@@ -19,6 +19,7 @@ SUBSECTION(Semaphores)
   DCL (OUT_SEMA, IN_SEMA) SEMA PRESET(1,1);
 
 SUBSECTION(Procedure Print)
+  COMMENT(This procedure prints a char-array of size 80)
   PRINT: PROC(TEXT CHAR(80));
     RELEASE OUT_SEMA;
     OPEN TERM;
@@ -28,6 +29,7 @@ SUBSECTION(Procedure Print)
   END;
 
 SUBSECTION(Procedure Read Text)
+  COMMENT(This procedure reads a char-array of size 80 from stdin)
   READ_CHAR: PROC RETURNS(CHAR(30));
     DCL NAME CHAR(30);
 
@@ -41,6 +43,7 @@ SUBSECTION(Procedure Read Text)
   END;
 
 MAINSECTION(Main)
+  COMMENT(This Task reads a name and prints Hello name to stdout)
   START: TASK MAIN;
     DCL NAME CHAR(30);
 

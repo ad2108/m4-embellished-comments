@@ -14,6 +14,12 @@ define(`DATE',`21.06.2026')dnl
 define(`VERSION',`1.0.0')dnl
 define(`LICENSE',`MIT')dnl
 dnl
+define(`SEPARATOR_1',`-')dnl
+define(`SEPARATOR_SIZE_1',`70')dnl
+dnl
+define(`SEPARATOR_2',`>')dnl
+define(`SEPARATOR_SIZE_2',`70')dnl
+dnl
 define(`COMMENT_SIGN_START',`//')dnl
 define(`COMMENT_SIGN_END',` ')dnl
 dnl
