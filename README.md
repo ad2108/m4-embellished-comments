@@ -108,5 +108,5 @@ EOF
 
 ## Example
 
-A simple example can be found in the examples directory.
+A few examples can be found in the examples directory.
 
