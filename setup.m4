@@ -15,7 +15,7 @@ dnl # The following definitions need to be filled out
 dnl # ------------------------------------------------------------------
 dnl
 define(`PROJECT_NAME',`<project-name>')dnl
-define(`AUTHORNAME',`<author-name>')dnl
+define(`AUTHOR_NAME',`<author-name>')dnl
 define(`DATE',`<date>')dnl
 define(`VERSION',`<version>')dnl
 define(`LICENSE',`<license>')dnl
