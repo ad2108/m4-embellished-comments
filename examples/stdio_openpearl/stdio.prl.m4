@@ -21,11 +21,11 @@ SUBSECTION(Semaphores)
 SUBSECTION(Procedure Print)
   COMMENT(This procedure prints a char-array of size 80)
   PRINT: PROC(TEXT CHAR(80));
-    RELEASE OUT_SEMA;
+    REQUEST OUT_SEMA;
     OPEN TERM;
     PUT TEXT TO TERM BY A, SKIP;
     CLOSE TERM;
-    REQUEST OUT_SEMA;
+    RELEASE OUT_SEMA;
   END;
 
 SUBSECTION(Procedure Read Text)
