@@ -18,6 +18,14 @@ COMMENT(This is a comment)
 // This is a comment  
 ```
 
+### DOCCOMMENT(comment)
+
+```cpp
+DOCCOMMENT(This is a comment)
+
+//! This is a comment  
+```
+
 ### SEP(char,number)
 
 ```cpp

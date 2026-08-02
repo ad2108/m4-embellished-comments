@@ -5,8 +5,8 @@ dnl # >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 dnl # ------------------------------------------------------------------
 dnl # Project:  https://github.com/ad2108/m4-embellished-comments
 dnl # Author:   ad2108
-dnl # Date:     21.06.2026
-dnl # Version:  1.0.2
+dnl # Date:     02.08.2026
+dnl # Version:  1.0.3
 dnl # License:  MIT
 dnl # ------------------------------------------------------------------
 dnl
@@ -28,6 +28,9 @@ define(`SEPARATOR_SIZE_2',`70')dnl
 dnl
 define(`COMMENT_SIGN_START',`//')dnl
 define(`COMMENT_SIGN_END',` ')dnl
+dnl
+define(`DOC_COMMENT_SIGN_START',`//!')dnl
+define(`DOC_COMMENT_SIGN_END',` ')dnl
 dnl
 dnl # ------------------------------------------------------------------
 dnl # >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
